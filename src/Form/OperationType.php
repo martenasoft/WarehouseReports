@@ -2,7 +2,7 @@
 
 namespace MartenaSoft\WarehouseReports\Form;
 
-use App\Entity\Operation;
+use MartenaSoft\WarehouseReports\Entity\Operation;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;
 use Symfony\Component\OptionsResolver\OptionsResolver;

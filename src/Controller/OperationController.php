@@ -3,8 +3,8 @@
 namespace MartenaSoft\WarehouseReports\Controller;
 
 use WarehouseReports\Entity\Operation;
-use App\Form\OperationType;
-use App\Repository\OperationRepository;
+use MartenaSoft\WarehouseReports\Form\OperationType;
+use MartenaSoft\WarehouseReports\Repository\OperationRepository;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;

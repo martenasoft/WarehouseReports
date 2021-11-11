@@ -2,7 +2,7 @@
 
 namespace MartenaSoft\WarehouseReports\Controller;
 
-use WarehouseReports\Entity\Operation;
+use MartenaSoft\WarehouseReports\Entity\Operation;
 use MartenaSoft\WarehouseReports\Form\OperationType;
 use MartenaSoft\WarehouseReports\Repository\OperationRepository;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;

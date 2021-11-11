@@ -15,6 +15,5 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "martena-soft/warehouse-common": "^1.1"
     }
 }
